@@ -1,4 +1,4 @@
-# patch_1337
+# patcher1337
 
 一个用于处理1337格式补丁文件的Python库。
 
@@ -24,7 +24,7 @@ pip install patch_1337
 ### 基本使用
 
 ```python
-from patch_1337 import Patcher1337
+from patcher1337 import Patcher1337
 
 patcher = Patcher1337()
 result = patcher.apply_patch(
